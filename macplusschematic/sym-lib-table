@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SN74F04N[1])(type Legacy)(uri "C:/Users/Audrey/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/8VI6BXZU/SN74F04N[1].lib")(options "")(descr ""))
+  (lib (name MC26LS30D)(type Legacy)(uri "F:/Electronics Projects/MC26LS30D.lib")(options "")(descr ""))
+)
